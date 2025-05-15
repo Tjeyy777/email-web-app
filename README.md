@@ -7,7 +7,6 @@ A professional-grade Email CRUD (Create, Read, Update, Delete) web application b
 ## 🚀 Features
 
 - ✅ **Create, Edit, Delete, and View Emails**
-- 🎯 **Email validation** 
 - 📁 **Export to PDF and Excel**
 - 🔎 **Search functionality** 
 - 🌙 **Dark/Light Theme Toggle**
